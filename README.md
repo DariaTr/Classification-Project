@@ -7,7 +7,7 @@ This project, developed by Daria and Shachar, is centered around predicting empl
 Our dataset includes details of 3722 employees, featuring attributes such as Education, Joining Year, City, Payment Tier, Age, Gender, EverBenched, Experience in Current Domain, and Race. The target variable is 'LeaveOrNot'.
 
 ## Approach
-We used several preprocessing techniques and algorithms, including Logistic Regression, Decision Trees, and ensemble methods. The project's Jupyter notebook details our methodology and the steps taken.
+We used several preprocessing techniques and algorithms, including Logistic Regression, Decision Trees, Boosting, Bagging, and ensemble methods. The project's Jupyter notebook details our methodology and the steps taken.
 
 ## Metrics
 We evaluated our model using AUC, ROC, Precision, Recall, F1 Score, and Accuracy. These metrics are detailed in our project presentation.
