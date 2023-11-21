@@ -13,8 +13,9 @@ We used several preprocessing techniques and algorithms, including Logistic Regr
 We evaluated our model using AUC, ROC, Precision, Recall, F1 Score, and Accuracy. These metrics are detailed in our project presentation.
 
 ## Repository Contents
-- `XXXXXXXXXXXXXXXXXXXXXXXX.ipynb`: Main project notebook with the classification pipeline and analysis.
-- `data/`: Dataset folder.
+- Several `ipynb`files containing project notebooks of EDA and the classification pipeline and analysis.
+- Datasets
+- Test folder containing test scripts and predictions
 - `README.md`: Overview and instructions.
 
 ## Presentation
